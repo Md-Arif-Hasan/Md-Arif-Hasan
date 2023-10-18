@@ -17,6 +17,8 @@ Cognitive Distance and Women in Software Engineering: An Empirical Study in the 
 
 My ICSE Profile: https://conf.researchr.org/profile/icse-2023/mdarifhasan1
 
+My ICSE Conference Paper: https://www.researchgate.net/publication/373148858_Cognitive_Distance_and_Women_in_Software_Engineering_An_Empirical_Study_in_the_Context_of_Bangladesh
+
 
 
 <h3 align="left">Languages and Tools:</h3>
